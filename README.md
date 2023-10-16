@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin!
 - 👀 I am a former Pinterest and Twitter business operations specialist.
-- 🌱 I’m currently learning python and mixing it with SQl databases
+- 🌱 I’m currently learning python and SQl
 - 📫 How to reach me at my linkedin (https://www.linkedin.com/in/kevin-lam-152776a5/)
 
 <!---

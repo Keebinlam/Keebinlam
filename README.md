@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin!
-- 👀 I am a former Pinterest and Twitter Operations Specialist.
+- 👀 I am a former Adobe, Pinterest and Twitter Operations Specialist.
 - 🌱 I’m currently learning Machine Learning with Python
 - 📫 How to reach me at my linkedin (https://www.linkedin.com/in/kevin-lam-152776a5/)
 - Machine Learning using different models (https://jovian.com/lamt-kevin)
